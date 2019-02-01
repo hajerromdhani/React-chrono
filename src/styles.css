@@ -1,0 +1,36 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.div-date {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url("https://png.pngtree.com/element_origin_min_pic/16/08/30/1057c4f21d4950f.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 200px;
+  height: 410px;
+}
+h1 {
+  padding: 4%;
+}
+h5 {
+  color: gray;
+  padding: 4%;
+}
+.timer-div {
+  display: flex;
+  justify-content: center;
+}
+.btn-div {
+  display: flex;
+  justify-content: center;
+}
+button {
+  margin: 2%;
+  border-radius: 5px;
+  font-size: 16px;
+  color: black;
+}
